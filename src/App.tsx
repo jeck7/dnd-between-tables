@@ -1,12 +1,12 @@
 import {StrictMode} from 'react';
 import './App.css';
-import Example from "./Components/Example";
+import DragAndDropTables from "./Components/DragAndDropTables";
 
 function App() {
     return (
         <div className="App">
             <StrictMode>
-                <Example/>
+                <DragAndDropTables/>
             </StrictMode>,
         </div>
     );
