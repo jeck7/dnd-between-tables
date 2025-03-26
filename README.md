@@ -1,5 +1,5 @@
 
-# Demo
+# Demo of dnd-between-tables
 [Live demo](https://jeck7.github.io/dnd-between-tables)
 
 # Getting Started with Create React App
