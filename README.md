@@ -1,5 +1,5 @@
 
-## demo
+# Demo
 [Live demo](https://jeck7.github.io/dnd-between-tables/)
 
 
