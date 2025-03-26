@@ -3,6 +3,8 @@
 [Live demo](https://jeck7.github.io/dnd-between-tables {:target="_blank"})
 
 
+<a href="[https://www.google.com](https://jeck7.github.io/dnd-between-tables)" target="_blank">external link</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
