@@ -72,7 +72,7 @@ const DragAndDropTables = () => {
         },
         renderTopToolbarCustomActions: () => (
             <Typography color="success.main" component="span" variant="h4">
-                Table 1
+                Table 1 - drag&drop
             </Typography>
         ),
     });
@@ -101,7 +101,7 @@ const DragAndDropTables = () => {
         },
         renderTopToolbarCustomActions: () => (
             <Typography color="error.main" component="span" variant="h4">
-                Table 2
+                Table 2 - drag&drop
             </Typography>
         ),
     });
@@ -115,11 +115,12 @@ const DragAndDropTables = () => {
                 overflow: 'auto',
                 p: '4px',
             }}>
+
             <MaterialReactTable table={table1}/>
             <MaterialReactTable table={table2}/>
 
             <Typography color="warning" component="span" variant="h4">
-                Table 3 change Row ordering
+                Table 3 - change Row ordering
                 <RowOrderingTable/>
             </Typography>
         </Box>
