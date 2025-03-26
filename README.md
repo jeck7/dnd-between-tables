@@ -1,6 +1,6 @@
 
 # Demo
-[Live demo](https://jeck7.github.io/dnd-between-tables/)
+[Live demo](https://jeck7.github.io/dnd-between-tables){:target="_blank"}
 
 
 # Getting Started with Create React App
