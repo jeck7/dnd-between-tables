@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dnd-between-tables/static/css/main.f855e6bc.css",
+    "main.js": "/dnd-between-tables/static/js/main.af29ab6b.js",
+    "index.html": "/dnd-between-tables/index.html",
+    "main.f855e6bc.css.map": "/dnd-between-tables/static/css/main.f855e6bc.css.map",
+    "main.af29ab6b.js.map": "/dnd-between-tables/static/js/main.af29ab6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.af29ab6b.js"
+  ]
+}
